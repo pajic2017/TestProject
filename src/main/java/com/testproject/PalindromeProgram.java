@@ -8,6 +8,7 @@ public class PalindromeProgram {
 	public static void main(String[] args) {
 		if (args.length == 0) {
 			System.out.println("Usage: java com.testproject.PalindromeProgram <text>");
+			System.out.println("Testing with my changes.......");
 			return;
 		}
 
